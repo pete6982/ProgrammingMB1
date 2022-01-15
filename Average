@@ -1,4 +1,5 @@
 # Define a function average()
+# Do not modify this code
 def average(list):
 For each item in list
   count = count + 1
