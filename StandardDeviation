@@ -1,3 +1,9 @@
-# Define a function std_dev()
-# put your code here, using average() as an example
-# calculate the standard deviation here
+# Define a function std_dev(), which calculates the standard deviation of a list of numbers
+def std_dev(list):
+  #put your code here
+  return something
+
+#call the function, using an list of numbers as input
+#a list is a data type used to store the data items where each data item is separated by a comma
+#the standard deviation of 6,3,10,56,2 is 20.49
+std_dev([6,3,10,56,2])
