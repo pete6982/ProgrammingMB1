@@ -9,9 +9,7 @@ To calculate the sample standard deviation, you will need to calculate the sum o
 
 For example, if the list of numbers is {1, 2, 6}
 
-The observations are 1, 2, and 6. 
-
-There are 3 observations (count = 3 or n = 3).
+The observations are 1, 2, and 6. There are 3 observations (count = 3 or n = 3).
 
 The average would be
 (1 + 2 + 6) / 3 = 3
