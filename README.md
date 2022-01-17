@@ -34,5 +34,6 @@ The sample variance is the sum of squared differences divided by the degrees of 
 The sample standard deviation is the square root of 7. In Python, we can calculate this using math.sqrt(7)
 
 To test your code, copy and paste your code to 
-  https://www.onlinegdb.com/online_python_compiler
+  https://www.programiz.com/python-programming/online-compiler/
+Do not be discouraged! the best way to learn to code is by writing more code. Make changes and see what happens when you press "Run"
   
