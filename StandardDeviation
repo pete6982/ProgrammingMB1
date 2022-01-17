@@ -1,23 +1,10 @@
-import math
-#hint: math.sqrt(4) will calculate the square root of 4 
-#hint: math.sqrt(something) will calculate the square root of a variable called something
-
-#hint: you can use the function average() from the example
-# Define a function average()
-def average(list):
-  count = 0
-  total = 0
-  for i in list:
-    count = count + 1
-    total = total + i
-  return total/count
+#put some code here
 
 # Define a function std_dev(), which calculates the sample standard deviation of a list of numbers
 def std_dev(list):
-  #put your code here
-  return something
+  #put some code here
+  return something #replace something here with a variable or statement that gives you the sample standard deviation
 
 #call the function, using an list of numbers as input
-#a list is a data type used to store the data items where each data item is separated by a comma
 #the sample standard deviation of 6,3,10,56,2 is 22.908513701242168
 print(std_dev([6,3,10,56,2]))
