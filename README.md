@@ -29,7 +29,7 @@ The sum of squared differences would be
 
 The degrees of freedom is 2 (degrees of freedom = n - 1)
 
-The sample variance is 14 / 2 = 7
+The sample variance is the sum of squared differences divided by the degrees of freedom, 14 / 2 = 7
 
 The sample standard deviation is the square root of 7. In Python, we can calculate this using math.sqrt(7)
 
