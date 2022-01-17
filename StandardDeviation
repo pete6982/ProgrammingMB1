@@ -5,6 +5,6 @@ def std_dev(list):
   #put some code here
   return something #replace something here with a variable or statement that gives you the sample standard deviation
 
-#call the function, using an list of numbers as input
+#call the function, using a list of numbers as input
 #the sample standard deviation of 6,3,10,56,2 is 22.908513701242168
 print(std_dev([6,3,10,56,2]))
