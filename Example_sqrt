@@ -1,0 +1,9 @@
+#import the math module. This module is often not needed and so it is not automatically loaded to memory. You'll need it to calculate the sample standard deviation
+import math
+
+#hint: math.sqrt(4) will calculate the square root of 4 
+print(math.sqrt(4))
+
+#hint: math.sqrt(something) will calculate the square root of a variable called something
+something = 25
+print(math.sqrt(something))
