@@ -2,6 +2,7 @@ import math
 #hint: math.sqrt(4) will calculate the square root of 4 
 #hint: math.sqrt(something) will calculate the square root of a variable called something
 
+#hint: you can use the function average() from the example
 # Define a function average()
 def average(list):
   count = 0
