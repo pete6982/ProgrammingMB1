@@ -1,9 +1,11 @@
-#put some code here
+#copy the average() function here, you'll need to call it to calculate the sample standard deviation
 
 # Define a function std_dev(), which calculates the sample standard deviation of a list of numbers
 def std_dev(list):
-  #put some code here
-  return something #replace something here with a variable or statement that gives you the sample standard deviation
+  #call average(), calculate the difference, get the total of difference * difference
+  #also get the count of the observations or n, you'll need n-1 which is the degrees of freedom
+  #the variance is the total divided by n-1
+  return something #the square root of the variance
 
 #call the function, using a list of numbers as input
 #the sample standard deviation of 6,3,10,56,2 is 22.908513701242168
