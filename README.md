@@ -15,13 +15,13 @@ The average would be
 (1 + 2 + 6) / 3 = 3
 
 The differences would be
-1 - 3 = -2
-2 - 3 = -1
+1 - 3 = -2, 
+2 - 3 = -1, 
 6 - 3 = 3
 
 The squared differences would be
--2 * -2 = 4
--1 * -1 = 1
+-2 * -2 = 4, 
+-1 * -1 = 1, 
 3 * 3 = 9
 
 The sum of squared differences would be 
