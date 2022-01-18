@@ -1,0 +1,24 @@
+# Define a function average()
+# A function is a set of commands that once defined can be called with a single command
+def average(list):
+  count = 0
+  total = 0
+  for i in list:
+    count = count + 1
+    total = total + i
+  return total/count
+
+# call the function, using an list of numbers as input
+# a list is a data type used to store the data items where each data item is separated by a comma
+print('The average of 6,3,10,56,2 is')
+print(average([6,3,10,56,2]))
+
+#use a loop to print the difference between each observation and the average
+for i in [6,3,10,56,2]:
+    print('for ' + str(i) + ' and ' + str(average([6,3,10,56,2])) + ' the difference is ')
+    print(i-average([6,3,10,56,2]))
+
+#use a loop to print the squared difference between each observation and the average
+for i in [6,3,10,56,2]:
+    print('for ' + str(i) + ' and ' + str(average([6,3,10,56,2])) + ' the squared difference is ')
+    print((i-average([6,3,10,56,2])) * (i-average([6,3,10,56,2])))
