@@ -1,5 +1,3 @@
-# Do not modify this code
-
 #import the math module. This module is often not needed and so it is not automatically loaded to memory. You'll need it to calculate the sample standard deviation
 import math
 
@@ -9,3 +7,6 @@ print(math.sqrt(4))
 #hint: math.sqrt(something) will calculate the square root of a variable called something
 something = 25
 print(math.sqrt(something))
+
+#take the square root of a product
+print(math.sqrt(4*4))
