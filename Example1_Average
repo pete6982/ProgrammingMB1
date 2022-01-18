@@ -1,5 +1,3 @@
-# Do not modify this code
-
 # Define a function average()
 # A function is a set of commands that once defined can be called with a single command
 def average(list):
@@ -12,4 +10,5 @@ def average(list):
 
 # call the function, using an list of numbers as input
 # a list is a data type used to store the data items where each data item is separated by a comma
+print('The average of 6,3,10,56,2 is')
 print(average([6,3,10,56,2]))
