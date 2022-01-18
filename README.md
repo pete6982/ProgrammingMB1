@@ -36,3 +36,5 @@ The degrees of freedom is 2 (degrees of freedom = n - 1 or one less than the cou
 The sample variance is the sum of squared differences divided by the degrees of freedom, 14 / 2 = 7
 
 The sample standard deviation is the square root of the sample variance (square root of 7 in this case). In Python, we can calculate this using math.sqrt(7)
+
+To learn more about Python, go to https://www.programiz.com/python-programming/first-program
